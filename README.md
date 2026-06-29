@@ -58,6 +58,7 @@
 <p align="center">
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api?username=therishitpathakkkk&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=therishitpathakkkk&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    alt="GitHub Stats"
   />
 </p>
