@@ -293,6 +293,5 @@ Interactive background color changer built using **HTML, CSS & JavaScript**.
 </h3>
 
 <p align="center">      
-
 💙 If you like my work, don't forget to star my repositories.
 </p>
