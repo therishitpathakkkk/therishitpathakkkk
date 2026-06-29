@@ -61,7 +61,7 @@
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=therishitpathakkkk&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
     alt="GitHub Stats"
 
-    <br>
+  <br>
 
 
 
