@@ -199,7 +199,7 @@ Beautiful animated birthday website built using **React, Tailwind CSS & Framer M
 
 Interactive background color changer built using **HTML, CSS & JavaScript**.
 
-<a href="bg-changer-olive-zeta.vercel.app" target="_blank">
+<a href="https://bg-changer-olive-zeta.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/🚀 Live Demo-00C853?style=for-the-badge"/>
 </a>
 
