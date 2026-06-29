@@ -126,7 +126,6 @@ Modern developer portfolio showcasing my skills, projects and experience.
 <tr>
 <td width="50%">
 
-
 ### 🖼️ AI Background Remover
 
 Remove image backgrounds instantly using **AI API, HTML, CSS & JavaScript**.
@@ -157,6 +156,7 @@ Random CAPTCHA Generator with validation built using **HTML, CSS & JavaScript**.
 
 </td>
 
+<tr>
 <td width="50%">
 
 ### ⏱️ React Stopwatch
@@ -172,9 +172,7 @@ Responsive stopwatch built using **React.js**.
 </a>
 
 </td>
-</tr>
 
-<tr>
 <td width="50%">
 
 ### 🎂 Birthday Website
