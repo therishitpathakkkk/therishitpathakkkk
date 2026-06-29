@@ -14,7 +14,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Aspiring+Full+Stack+Developer;Frontend+Developer;Backend+Learner;Java+Programmer;Building+Creative+Projects" alt="Typing SVG" />
 </p>
 
-<br><br>
+<br>
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
-<br><br>
+<br>
 
  <h2 align="center">🚀 About Me</h2>
 
