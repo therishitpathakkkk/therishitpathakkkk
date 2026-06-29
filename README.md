@@ -70,5 +70,137 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=therishitpathakkkk&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
+
+<br>
+
+<h2 align="center">💻 Most Used Languages</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=therishitpathakkkk&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<br>
+
+<h2 align="center">🌟 Featured Projects</h2>
+
+<table align="center">
+<tr>
+<td width="50%">
+
+### 🤖 AI Assistant
+AI-powered chatbot using **HTML, CSS, JavaScript & Gemini API**
+
+</td>
+
+<td width="50%">
+
+### 🎂 Birthday Website
+Interactive birthday website built using **React, Tailwind CSS & Framer Motion**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ⏱️ React Stopwatch
+A responsive stopwatch built with **React.js**
+
+</td>
+
+<td width="50%">
+
+### 🎨 Background Changer
+Simple JavaScript project to change background colors dynamically.
+
+</td>
+</tr>
+</table>
+
+
+<br>
+
+<h2 align="center">🌱 Currently Learning</h2>
+
+<p align="center">
+
+☕ Java Programming <br><br>
+
+🟢 Node.js & Express.js <br><br>
+
+🍃 MongoDB <br><br>
+
+⚡ Backend Development <br><br>
+
+🚀 Full Stack Web Development
+
+</p>
+
+<br>
+
+<h2 align="center">🎯 2026 Goals</h2>
+
+<p align="center">
+
+✅ Master React.js <br><br>
+
+✅ Learn Backend Development <br><br>
+
+✅ Build 15+ Real-World Projects <br><br>
+
+✅ Contribute to Open Source <br><br>
+
+✅ Land My First Software Internship
+
+</p>
+
+<br>
+
+<br>
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://rishit-portfolio-zeta.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="mailto:rishitpathak91@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/therishitpathakkkk" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+<br>
+
+<h2 align="center">👀 Profile Views</h2>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=therishitpathakkkk&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
+
+<br>
+
+<h3 align="center">
+
+⭐ Thanks for visiting my profile! ⭐
+
+</h3>
+
+<p align="center">
+
+💙 If you like my work, don't forget to star my repositories.
+
+</p>
   />
 </p>
