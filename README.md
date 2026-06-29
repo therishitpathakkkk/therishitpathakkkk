@@ -84,64 +84,7 @@
 
 <br>
 
-<h2 align="center">🌟 Featured Projects</h2>
 
-<table>
-
-<tr>
-<td width="50%">
-
-### 🤖 AI Chatbot
-
-AI-powered chatbot built using **HTML, CSS, JavaScript, Node.js & Gemini API**.
-
-<a href="https://ai-chat-bot-one-lilac.vercel.app/">
-<img src="https://img.shields.io/badge/🚀 Live Demo-00C853?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/therishitpathakkkk/AI-ChatBot">
-<img src="https://img.shields.io/badge/💻 Source Code-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-<td width="50%">
-
-### 🌐 Portfolio Website
-
-Modern developer portfolio showcasing my skills, projects and experience.
-
-<a href="https://rishit-portfolio-zeta.vercel.app">
-<img src="https://img.shields.io/badge/🚀 Live Demo-00C853?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/therishitpathakkkk/rishit-portfolio">
-<img src="https://img.shields.io/badge/💻 Source Code-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🖼️ AI Background Remover
-
-Remove image backgrounds instantly using **AI API, HTML, CSS & JavaScript**.
-
-<a href="#">
-<img src="https://img.shields.io/badge/🚀 Live Demo-00C853?style=for-the-badge"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/💻 Source Code-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-<td width="50%">
-
-<br>
 
 <h2 align="center">🌟 Featured Projects</h2>
 
