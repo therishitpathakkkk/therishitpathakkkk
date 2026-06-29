@@ -82,21 +82,42 @@
 
 <br>
 
+<br>
+
 <h2 align="center">🌟 Featured Projects</h2>
 
-<table align="center">
+<table>
+
 <tr>
 <td width="50%">
 
-### 🤖 AI Assistant
-AI-powered chatbot using **HTML, CSS, JavaScript & Gemini API**
+### 🤖 AI Chatbot
+
+AI-powered chatbot built using **HTML, CSS, JavaScript, Node.js & Gemini API**.
+
+<a href="https://ai-chat-bot-one-lilac.vercel.app/">
+<img src="https://img.shields.io/badge/🚀 Live Demo-00C853?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/therishitpathakkkk/AI-ChatBot">
+<img src="https://img.shields.io/badge/💻 Source Code-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </td>
 
 <td width="50%">
 
 ### 🎂 Birthday Website
-Interactive birthday website built using **React, Tailwind CSS & Framer Motion**
+
+Beautiful animated birthday website built using **React, Tailwind CSS & Framer Motion**.
+
+<a href="https://birth-day-website-ten.vercel.app/">
+<img src="https://img.shields.io/badge/🚀 Live Demo-00C853?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/therishitpathakkkk/BirthDay-Website">
+<img src="https://img.shields.io/badge/💻 Source Code-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </td>
 </tr>
@@ -104,18 +125,91 @@ Interactive birthday website built using **React, Tailwind CSS & Framer Motion**
 <tr>
 <td width="50%">
 
-### ⏱️ React Stopwatch
-A responsive stopwatch built with **React.js**
+### 🖼️ AI Background Remover
+
+Remove image backgrounds instantly using **AI API, HTML, CSS & JavaScript**.
+
+<a href="#">
+<img src="https://img.shields.io/badge/🚀 Live Demo-00C853?style=for-the-badge"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/💻 Source Code-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </td>
 
 <td width="50%">
 
-### 🎨 Background Changer
-Simple JavaScript project to change background colors dynamically.
+### 🌐 Portfolio Website
+
+Modern developer portfolio showcasing my skills, projects and experience.
+
+<a href="https://rishit-portfolio-zeta.vercel.app">
+<img src="https://img.shields.io/badge/🚀 Live Demo-00C853?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/therishitpathakkkk/rishit-portfolio">
+<img src="https://img.shields.io/badge/💻 Source Code-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </td>
 </tr>
+
+<tr>
+<td width="50%">
+
+### 🔐 CAPTCHA Generator
+
+Random CAPTCHA Generator with validation built using **HTML, CSS & JavaScript**.
+
+<a href="#">
+<img src="https://img.shields.io/badge/🚀 Live Demo-00C853?style=for-the-badge"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/💻 Source Code-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td  >
+
+<td width="50%">
+
+### ⏱️ React Stopwatch
+
+Responsive stopwatch built using **React.js**.
+
+<a href="#">
+<img src="https://img.shields.io/badge/🚀 Live Demo-00C853?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/therishitpathakkkk/StopWatch-From-React">
+<img src="https://img.shields.io/badge/💻 Source Code-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🎨 Background Changer
+
+Interactive background color changer built using **HTML, CSS & JavaScript**.
+
+<a href="https://bg-changer-olive-zeta.vercel.app/">
+<img src="https://img.shields.io/badge/🚀 Live Demo-00C853?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/therishitpathakkkk/BG-Changer">
+<img src="https://img.shields.io/badge/💻 Source Code-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%"></td>
+</tr>
+
 </table>
 
 
