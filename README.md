@@ -96,11 +96,11 @@
 
 AI-powered chatbot built using **HTML, CSS, JavaScript, Node.js & Gemini API**.
 
-<a href="YOUR_AI_CHATBOT_LIVE_LINK" target="_blank">
+<a href="https://ai-chat-bot-one-lilac.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/🚀 Live Demo-00C853?style=for-the-badge"/>
 </a>
 
-<a href="YOUR_AI_CHATBOT_GITHUB_LINK" target="_blank">
+<a href="https://github.com/therishitpathakkkk/AI-ChatBot" target="_blank">
 <img src="https://img.shields.io/badge/💻 GitHub Repo-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -116,7 +116,7 @@ Modern developer portfolio showcasing my skills, projects and experience.
 <img src="https://img.shields.io/badge/🚀 Live Demo-00C853?style=for-the-badge"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_GITHUB_LINK" target="_blank">
+<a href="https://github.com/therishitpathakkkk/rishit-portfolio" target="_blank">
 <img src="https://img.shields.io/badge/💻 GitHub Repo-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -130,11 +130,11 @@ Modern developer portfolio showcasing my skills, projects and experience.
 
 Remove image backgrounds instantly using **AI API, HTML, CSS & JavaScript**.
 
-<a href="YOUR_BG_REMOVER_LIVE_LINK" target="_blank">
+<a href="#" target="_blank">
 <img src="https://img.shields.io/badge/🚀 Live Demo-00C853?style=for-the-badge"/>
 </a>
 
-<a href="YOUR_BG_REMOVER_GITHUB_LINK" target="_blank">
+<a href="#" target="_blank">
 <img src="https://img.shields.io/badge/💻 GitHub Repo-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -146,11 +146,11 @@ Remove image backgrounds instantly using **AI API, HTML, CSS & JavaScript**.
 
 Random CAPTCHA Generator with validation built using **HTML, CSS & JavaScript**.
 
-<a href="YOUR_CAPTCHA_LIVE_LINK" target="_blank">
+<a href="#" target="_blank">
 <img src="https://img.shields.io/badge/🚀 Live Demo-00C853?style=for-the-badge"/>
 </a>
 
-<a href="YOUR_CAPTCHA_GITHUB_LINK" target="_blank">
+<a href="#" target="_blank">
 <img src="https://img.shields.io/badge/💻 GitHub Repo-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -163,11 +163,11 @@ Random CAPTCHA Generator with validation built using **HTML, CSS & JavaScript**.
 
 Responsive stopwatch built using **React.js**.
 
-<a href="YOUR_STOPWATCH_LIVE_LINK" target="_blank">
+<a href="https://stopwatch-in-react.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/🚀 Live Demo-00C853?style=for-the-badge"/>
 </a>
 
-<a href="YOUR_STOPWATCH_GITHUB_LINK" target="_blank">
+<a href="https://github.com/therishitpathakkkk/StopWatch-From-React" target="_blank">
 <img src="https://img.shields.io/badge/💻 GitHub Repo-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -199,11 +199,11 @@ Beautiful animated birthday website built using **React, Tailwind CSS & Framer M
 
 Interactive background color changer built using **HTML, CSS & JavaScript**.
 
-<a href="YOUR_BG_CHANGER_LIVE_LINK" target="_blank">
+<a href="bg-changer-olive-zeta.vercel.app" target="_blank">
 <img src="https://img.shields.io/badge/🚀 Live Demo-00C853?style=for-the-badge"/>
 </a>
 
-<a href="YOUR_BG_CHANGER_GITHUB_LINK" target="_blank">
+<a href="https://github.com/therishitpathakkkk/BG-Changer" target="_blank">
 <img src="https://img.shields.io/badge/💻 GitHub Repo-181717?style=for-the-badge&logo=github"/>
 </a>
 
