@@ -50,5 +50,18 @@
 ✨ I believe the best way to learn is by building real-world projects
 
 </p>
+
+
+
+
+<h2 align="center">📊 GitHub Statistics</h2>
+
+
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=therishitpathakkkk&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+  />
+</p>
 </p>
 </p>
