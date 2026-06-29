@@ -37,6 +37,7 @@
 <h2 align="center">🚀 About Me</h2>
 
 <p align="center">
+  
 🎓 B.Tech CSE Student at Gyan Ganga Institute of Technology and Sciences, Jabalpur <br><br>
 
 💻 Aspiring Full Stack Developer passionate about building modern web applications <br><br>
