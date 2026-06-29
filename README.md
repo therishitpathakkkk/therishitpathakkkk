@@ -197,10 +197,9 @@ Simple JavaScript project to change background colors dynamically.
 
 </h3>
 
-<p align="center">
+<p align="center">      
 
 💙 If you like my work, don't forget to star my repositories.
-
 </p>
   />
 </p>
