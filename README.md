@@ -16,7 +16,7 @@
 
 
 
-             <h2 align="center">🛠️ Tech Stack</h2>
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -35,6 +35,20 @@
 
  <h2 align="center">🚀 About Me</h2>
 
- 
+ <p align="center">
+
+🎓 B.Tech CSE Student at Gyan Ganga Institute of Technology and Sciences, Jabalpur <br><br>
+
+💻 Aspiring Full Stack Developer passionate about building modern web applications <br><br>
+
+🌱 Currently learning Java, Node.js, Express.js and Backend Development <br><br>
+
+🚀 Love creating real-world projects using React and JavaScript <br><br>
+
+🎯 Working towards becoming a skilled Software Engineer through continuous learning and hands-on development <br><br>
+
+✨ I believe the best way to learn is by building real-world projects
+
+</p>
 </p>
 </p>
