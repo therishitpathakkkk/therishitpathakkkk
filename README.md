@@ -1,5 +1,5 @@
 <h1 align="center">
- Hi there 👋, I'm Rishit Pathak
+  Hi there 👋, I'm Rishit Pathak
 </h1>
 
 <h3 align="center">
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Aspiring+Full+Stack+Developer;Frontend+Developer;Backend+Learner;Java+Programmer;Building+Creative+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Aspiring+Full+Stack+Developer;Frontend+Developer;Backend+Learner;Java+Programmer;Building+Real-World+Projects" alt="Typing SVG" />
 </p>
 
 <br>
@@ -30,13 +30,13 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
 
 <br>
 
- <h2 align="center">🚀 About Me</h2>
+<h2 align="center">🚀 About Me</h2>
 
- <p align="center">
-
+<p align="center">
 🎓 B.Tech CSE Student at Gyan Ganga Institute of Technology and Sciences, Jabalpur <br><br>
 
 💻 Aspiring Full Stack Developer passionate about building modern web applications <br><br>
@@ -47,21 +47,16 @@
 
 🎯 Working towards becoming a skilled Software Engineer through continuous learning and hands-on development <br><br>
 
-✨ I believe the best way to learn is by building real-world projects
-
+✨ I believe the best way to learn is by building real-world projects.
 </p>
 
-
-
+<br>
 
 <h2 align="center">📊 GitHub Statistics</h2>
-
 
 <p align="center">
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api?username=therishitpathakkkk&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    src="https://github-readme-stats.vercel.app/api?username=therishitpathakkkk&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"
   />
-</p>
-</p>
 </p>
