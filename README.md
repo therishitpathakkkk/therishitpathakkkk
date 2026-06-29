@@ -107,15 +107,15 @@ AI-powered chatbot built using **HTML, CSS, JavaScript, Node.js & Gemini API**.
 
 <td width="50%">
 
-### 🎂 Birthday Website
+### 🌐 Portfolio Website
 
-Beautiful animated birthday website built using **React, Tailwind CSS & Framer Motion**.
+Modern developer portfolio showcasing my skills, projects and experience.
 
-<a href="https://birth-day-website-ten.vercel.app/">
+<a href="https://rishit-portfolio-zeta.vercel.app">
 <img src="https://img.shields.io/badge/🚀 Live Demo-00C853?style=for-the-badge"/>
 </a>
 
-<a href="https://github.com/therishitpathakkkk/BirthDay-Website">
+<a href="https://github.com/therishitpathakkkk/rishit-portfolio">
 <img src="https://img.shields.io/badge/💻 Source Code-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -141,16 +141,40 @@ Remove image backgrounds instantly using **AI API, HTML, CSS & JavaScript**.
 
 <td width="50%">
 
-### 🌐 Portfolio Website
+<br>
 
-Modern developer portfolio showcasing my skills, projects and experience.
+<h2 align="center">🌟 Featured Projects</h2>
 
-<a href="https://rishit-portfolio-zeta.vercel.app">
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI Chatbot
+
+AI-powered chatbot built using **HTML, CSS, JavaScript, Node.js & Gemini API**.
+
+<a href="YOUR_AI_CHATBOT_LIVE_LINK" target="_blank">
 <img src="https://img.shields.io/badge/🚀 Live Demo-00C853?style=for-the-badge"/>
 </a>
 
-<a href="https://github.com/therishitpathakkkk/rishit-portfolio">
-<img src="https://img.shields.io/badge/💻 Source Code-181717?style=for-the-badge&logo=github"/>
+<a href="YOUR_AI_CHATBOT_GITHUB_LINK" target="_blank">
+<img src="https://img.shields.io/badge/💻 GitHub Repo-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🎂 Birthday Website
+
+Beautiful animated birthday website built using **React, Tailwind CSS & Framer Motion**.
+
+<a href="https://birth-day-website-ten.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/🚀 Live Demo-00C853?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/therishitpathakkkk/BirthDay-Website" target="_blank">
+<img src="https://img.shields.io/badge/💻 GitHub Repo-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
@@ -158,6 +182,93 @@ Modern developer portfolio showcasing my skills, projects and experience.
 
 <tr>
 <td width="50%">
+
+### 🖼️ AI Background Remover
+
+Remove image backgrounds instantly using **AI API, HTML, CSS & JavaScript**.
+
+<a href="YOUR_BG_REMOVER_LIVE_LINK" target="_blank">
+<img src="https://img.shields.io/badge/🚀 Live Demo-00C853?style=for-the-badge"/>
+</a>
+
+<a href="YOUR_BG_REMOVER_GITHUB_LINK" target="_blank">
+<img src="https://img.shields.io/badge/💻 GitHub Repo-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🌐 Portfolio Website
+
+Modern developer portfolio showcasing my skills, projects and experience.
+
+<a href="https://rishit-portfolio-zeta.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/🚀 Live Demo-00C853?style=for-the-badge"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_GITHUB_LINK" target="_blank">
+<img src="https://img.shields.io/badge/💻 GitHub Repo-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🔐 CAPTCHA Generator
+
+Random CAPTCHA Generator with validation built using **HTML, CSS & JavaScript**.
+
+<a href="YOUR_CAPTCHA_LIVE_LINK" target="_blank">
+<img src="https://img.shields.io/badge/🚀 Live Demo-00C853?style=for-the-badge"/>
+</a>
+
+<a href="YOUR_CAPTCHA_GITHUB_LINK" target="_blank">
+<img src="https://img.shields.io/badge/💻 GitHub Repo-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### ⏱️ React Stopwatch
+
+Responsive stopwatch built using **React.js**.
+
+<a href="YOUR_STOPWATCH_LIVE_LINK" target="_blank">
+<img src="https://img.shields.io/badge/🚀 Live Demo-00C853?style=for-the-badge"/>
+</a>
+
+<a href="YOUR_STOPWATCH_GITHUB_LINK" target="_blank">
+<img src="https://img.shields.io/badge/💻 GitHub Repo-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🎨 Background Changer
+
+Interactive background color changer built using **HTML, CSS & JavaScript**.
+
+<a href="YOUR_BG_CHANGER_LIVE_LINK" target="_blank">
+<img src="https://img.shields.io/badge/🚀 Live Demo-00C853?style=for-the-badge"/>
+</a>
+
+<a href="YOUR_BG_CHANGER_GITHUB_LINK" target="_blank">
+<img src="https://img.shields.io/badge/💻 GitHub Repo-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%"></td>
+</tr>
+
+</table>
 
 ### 🔐 CAPTCHA Generator
 
