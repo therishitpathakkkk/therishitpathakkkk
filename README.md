@@ -60,5 +60,15 @@
     height="170"
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=therishitpathakkkk&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
     alt="GitHub Stats"
+
+    <br>
+
+
+
+<h2 align="center">🔥 GitHub Streak</h2>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=therishitpathakkkk&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
   />
 </p>
